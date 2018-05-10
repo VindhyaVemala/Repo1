@@ -222,6 +222,6 @@ $bugherd->api('webhook')->remove($webhookId);
 - Add logging maybe?
 
 
-###License
+###License!!!
 This plugin is released under the permissive MIT license. Your contributions are always welcome!
   
