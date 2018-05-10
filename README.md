@@ -223,5 +223,5 @@ $bugherd->api('webhook')->remove($webhookId);
 
 
 ###License
-This plugin is released under the permissive MIT license. Your contributions are always welcome.
+This plugin is released under the permissive MIT license. Your contributions are always welcome!
   
